@@ -1,4 +1,5 @@
-Mediante este programa se puede convertir divisas en línea
+Mediante este programa se puede convertir divisas en línea.
+
 Paso 1
 Para ello desde el menú, el usuario puede eligir la conversión de divisas que deseas realizar.
 
